@@ -17,7 +17,7 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
 
 ## 💼 **Work Experience**
 
-### **Artificial Intelligence and Machine Learning Engineer**  
+### **Senior Artificial Intelligence and Machine Learning Engineer**  
 **BG Group** | *Aug 2024 – Present*  
 - Developed **predictive models** for cancer risk analysis, patient clustering, and treatment recommendations.  
 - Built HR-focused tools, including a **predictive analytics system** for employee retention and an **NLP chatbot** for HR automation.  
