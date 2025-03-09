@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Essam Abd Elgawad
 
-### **Data Scientist | AI & Machine Learning Engineer**
+### **Senior Data Scientist | AI & Machine Learning Engineer**
 
 [![Email](https://img.shields.io/badge/Email-ahmedessam2996%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedessam2996@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed__essam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedessamabdelatif/)
