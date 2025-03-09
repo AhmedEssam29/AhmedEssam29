@@ -60,30 +60,6 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
 
 ---
 
-## 🌟 **Projects**
-
-### **Audio Deepfake Detection**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AhmedEssam29/Deepfake_voice_Detection)  
-- Developed a system to detect manipulated audio recordings, mitigating misinformation and preserving audio integrity.
-
-### **Botnet Detection for IoT Networks**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AhmedEssam29/Botnet_Detection)  
-- Built a machine learning-based system to enhance cybersecurity by detecting malicious traffic in IoT networks.
-
-### **Stock Market Prediction Using Sentiment Analysis**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AhmedEssam29/stock_market_analysis)  
-- Integrated Twitter sentiment analysis to improve stock market predictions.
-
-### **Text Summarization Using LLMs**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AhmedEssam29/Text_Summarization_LaMini)  
-- Built a document summarization app using Streamlit, Langchain, and Hugging Face’s T5 Transformer.
-
-### **Face Recognition and Anti-Spoofing System**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AhmedEssam29/face-recognition-attendance)  
-- Developed a secure access system with real-time face recognition and liveness detection.
-
----
-
 ## 📜 **Certifications**
 - **Cloud & AI Fundamentals**:  
   - Microsoft Azure AI Fundamentals  
