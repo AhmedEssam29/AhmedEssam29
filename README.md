@@ -101,11 +101,7 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
 
 ---
 
-## 🌍 **Languages**
-- **English**: Fluent  
-- **Arabic**: Native  
 
----
 
 ## 📬 **Let’s Connect!**
 I’m always open to collaborating on exciting projects or discussing AI, data science, and machine learning. Feel free to reach out!  
