@@ -60,10 +60,6 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
   - Big Data Engineer (IBM)  
   - Artificial Intelligence Analyst (IBM)  
 
-- **Professional & Language Skills**:  
-  - Soft Skills Program (Dale Carnegie)  
-  - English Training (Berlitz)  
-
 ---
 
 
