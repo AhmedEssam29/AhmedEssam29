@@ -49,17 +49,6 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
 
 ---
 
-## 🛠️ **Technical Skills**
-- **Programming Languages**: Python, R, SQL, PL/SQL  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, Keras, TensorFlow, PyTorch  
-- **Data Visualization**: Power BI, Matplotlib, Seaborn  
-- **Core Competencies**:  
-  - Machine Learning: Generative AI, LLMs, NLP, Computer Vision  
-  - Data Science: Statistical Modeling, Cloud Analytics, Recommender Systems  
-  - Programming Paradigms: Object-Oriented Programming (OOP)  
-
----
-
 ## 📜 **Certifications**
 - **Cloud & AI Fundamentals**:  
   - Microsoft Azure AI Fundamentals  
