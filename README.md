@@ -68,7 +68,7 @@ I hold a **Master’s degree in Artificial Intelligence and Data Science** from 
 I’m always open to collaborating on exciting projects or discussing AI, data science, and machine learning. Feel free to reach out!  
 
 [![Email](https://img.shields.io/badge/Email-ahmedessam2996%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedessam2996@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed__essam-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/ahmedessamabdelatif/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed__essam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedessamabdelatif/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmed%20Essam-black?style=flat&logo=github)](https://github.com/AhmedEssam29)  
 
 ---
